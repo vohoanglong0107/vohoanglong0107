@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **about Devops practices and tools**
 
-- 📫 How to reach me **mamlong34@gmail.com**
+- 📫 How to reach me **vo.hoang.long@outlook.com**
 
 - ⚡ Fun fact **There was a penguin breathing with his ass. One day he sat down and died.**
 
