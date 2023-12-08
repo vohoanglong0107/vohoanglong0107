@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hoang Long</h1>
 <h3 align="center">This is where I break stuffs</h3>
 
-- 🌱 I’m currently learning **about Devops practices and tools**
-
 - 📫 How to reach me **vo.hoang.long@outlook.com**
 
 - ⚡ Fun fact **There was a penguin breathing with his ass. One day he sat down and died.**
