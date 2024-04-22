@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Long</h1>
 <h3 align="center">A Vietnamese Vim enjoyer write code for a living in Japan</h3>
 
-- 🔭 I’m currently working on [adding GraphQL to Biome](https://github.com/biomejs/biome/issues/1927)
+- 🔭 I’m currently working on [adding GraphQL to Biome](https://github.com/biomejs/biome/issues/1927) and [rewriting Bors](https://github.com/rust-lang/bors)
 
 - 🌱 I’m currently learning **Rust, and maybe Go or Japanese**
 
